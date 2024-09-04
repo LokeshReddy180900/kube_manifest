@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ambatilokesh/todo-app:build-3
+        image: ambatilokesh/todo-app:build-5
         ports:
         - containerPort: 80
